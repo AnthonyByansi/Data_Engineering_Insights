@@ -1,10 +1,9 @@
+# Data Engineering Insights 📊
 
-# Data Engineering Insights
-
-## Overview
+## Overview ℹ 
 This repository serves as a knowledge hub where data engineers, enthusiasts, and practitioners converge to delve into the realms of ETL processes, database management, orchestration tools, data quality, monitoring, deployment strategies, and more.
 
-## Features
+## Features 🌟
 * Curated blog posts covering various facets of data engineering.
 * Structured documentation for quick reference and detailed explanations.
 * Seamless deployment pipeline for effortless updates.
@@ -25,8 +24,8 @@ Contributions to the Data Engineering Chronicles are highly appreciated. Feel fr
 
 ## Getting Started
 
-To explore the articles and resources, visit the [Data Engineering Chronicles website](https://dataengineeringchronicles.com) or browse the repository's `/_posts` directory for specific topics.
+To explore the articles and resources, visit the [Data Engineering Engineering Website](https://anthonybyansi.github.io/Data_Engineering_Insights/) or browse the repository's `/_posts` directory for specific topics.
 
-## License
+## License 📜
 
 This repository and its contents are licensed under the [MIT License](LICENSE.md). By contributing to this repository, you agree to abide by its terms.
